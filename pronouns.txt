@@ -1,0 +1,55 @@
+I:naanu
+you:neenu
+he:avanu
+she:avalu
+we:naavu
+they:avvaru
+me:nanna nannage
+you:ninna nimage
+him:avana avanige
+her:avalaavalige
+us:namma
+them:avarige
+my:namma
+your:ninna
+his:avana
+her:avala
+our:namma
+their:avara
+mine:nanna
+yours:nimma
+his:avana
+hers:avala
+ours:namma
+theirs:avara
+everybody:ellaru
+all:ella
+another:mattondu
+few:kelavu
+none:yaavudoo
+many:aneka
+each:prati
+any:yaavudaadaru
+nothing:enu illa
+somebody:yaaradaru
+something:eno
+enough:saaku
+most:hechchu
+both:eradu
+such:antaha
+some:kelavu
+who:yaru
+what:enu
+how:hege
+where:elli
+which:yavudu
+this:idu
+that:adu
+these:ivu
+those:avu
+
+
+
+
+
+
