@@ -1,5 +1,0 @@
-adjectives={'beautiful':'sundara','careful':'eccarikeyinda','cheerful':'harshacittadinda','eager':'utsaha','lazy':'somarithana','quick':'bega','quiet':'shabdhavilladhe','worried':'chinte','bold':'keccedeya','honest':'pramanika','slow':'nidhana','graceful':'sulalita','kind':'ritiya','poor':'kalape','happy':'santosha','powerful':'prabala','angry':'kopagondu','bright':'prakashavada','foolish':'murkatana','hungry':'hasivininda','regular':'niyamita','silent';'shadavilladhe','hasty':'aturadinda','faithful':'nisthavanta','brave':'keccedeya'}
-
-{'circle':'vrtta','square':'cauka','rectangle':'ayata','triangle':'trikona','red':'kempu','green':'hasiru','blue':'nili','yellow':'haladi','orange':'orange','purple':'purple','black':'kappu','white':'bili','pink':'gulabi','grey':'budu'} //add these to nouns
-
-
